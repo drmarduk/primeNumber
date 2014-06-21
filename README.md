@@ -2,6 +2,8 @@
 
 *This small go program output the wanted prime number*
 
+[![Build Status](https://travis-ci.org/Swatto/primeNumber.svg?branch=master)](https://travis-ci.org/Swatto/primeNumber) [![Gobuild Download](http://beta.gobuild.io/badge/github.com/Swatto/primeNumber/download.png)](http://beta.gobuild.io/github.com/Swatto/primeNumber)
+
 The argument added at the call of the program should be the wanted prime number. Like the hundredth is 541.
 
 ## Example
