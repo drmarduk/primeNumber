@@ -4,6 +4,14 @@
 
 The argument added at the call of the program should be the wanted prime number. Like the hundredth is 541.
 
+## Example
+
+```
+./primeNumber 1000
+Getting the primary number at position of 1000
+Got it in 5.962807ms : 7919
+```
+
 ## Why ?
 
 This code was written in two small train travel just for fun. So mistakes could be present !
