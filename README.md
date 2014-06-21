@@ -12,7 +12,7 @@ Getting the primary number at position of 1000
 Got it in 5.962807ms : 7919
 ```
 
-## Why ?
+## Why?
 
 This code was written in two small train travel just for fun. So mistakes could be present !
 
